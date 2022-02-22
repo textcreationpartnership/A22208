@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract of His Maiesties letters pattents graunted to George Wood, for the sole printing of lynnen-cloath as followeth</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1619</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22208</idno>
+            <idno type="STC">STC 8614</idno>
+            <idno type="STC">ESTC S3417</idno>
+            <idno type="EEBO-CITATION">33149717</idno>
+            <idno type="OCLC">ocm 33149717</idno>
+            <idno type="VID">28476</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22208)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28476)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1875:113)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract of His Maiesties letters pattents graunted to George Wood, for the sole printing of lynnen-cloath as followeth</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>W. Jones,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>[1619]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint information suggested by STC (2nd ed.).</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wood, George.</term>
+               <term>Linen industry --  Great Britain --  Early works to 1800.</term>
+               <term>Monopolies --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:28476:1"/>
+            <!-- PDF PAGE 20 -->
+            <head>An abſtract of his Maieſties Letters Pattents graunted to <hi>George Wood,</hi> for the ſole Printing of Lynnen-Cloath as followeth.</head>
+            <head>
+               <figure>
+                  <p>I R</p>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>HERE AS THE KINGS moſt Excellent Maieſtie being in</hi>
+               <g ref="char:EOLhyphen"/>formed of an inuention for printing vpon Lynnen-cloath, was gratiouſly pleaſed by his High<g ref="char:EOLhyphen"/>nes Letters Partents bearing date the fiue and twentieth day of <hi>October</hi> now laſt paſt, in the Seuenteenth yeare of his Raigne of <hi>England France</hi> and <hi>Ireland &amp;c.</hi> And of <hi>Scotland</hi> the Three and Fiftieth. Did giue and graunt by the ſaid Letters Pattents vnto <hi>George Wood</hi> for the tearme of one and Twenty yeares full and ſole licence, libertie, power, and authoritie, to vſe, exerciſe, practiſe, &amp; put in execucion within his Dominions of <hi>England</hi> and <hi>Walles,</hi> the Printing of Lynnen-cloath, with an inhibition therein contained, that none other then the ſaid <hi>George Wood</hi> his Depu<g ref="char:EOLhyphen"/>ties or Aſſignes ſhould vſe the ſame with Preſſe or Screwe, or by force of Hand, or ſtroke of Hammer, or with any other Ingine or Inſtrument whatſoeuer, that ſhould leaue any impreſſion of culour or culours behind it, or to buy ſell vtter or put to ſaile within his Maieſties Realmes or Dominions or any parte of them any Lynnen-cloath knowing the ſame to the Printed by any perſon or perſons other then the ſaid <hi>George Wood</hi> his Executors Admi<g ref="char:EOLhyphen"/>niſtrators Deputies Aſſignes or Seruants aſwell vpon paine of forfeiture of all ſuch Lynnen-cloath ſo printed to his Maieſtie, as of all inſtruments and tooles vſed or to be vſed about the printing of the ſame and them to haue defaced and made vnuſefull as vpon payne of his Maieſties heauie indignation, and vpon ſuch further paines and pennalties and impriſonments as by the Lawes and Statutes of this Realme can, or may be inflicted vpon the of<g ref="char:EOLhyphen"/>fendors, for their contempt &amp; diſobedieuce in breaking and contemning his Maieſties commaundement &amp; Prero<g ref="char:EOLhyphen"/>gatiue Royall. And for the better execution of the ſaid graunt and preuelidge, his Maieſtie Did by the ſad Letters Pattents for Him his Heires and Succeſſors, giue and graunt full and free Power and Authoritie vnto the ſaid <hi>George Wood</hi> his Executors Adminiſtrators and Aſſignes that he the ſaid <hi>George Wood</hi> his Executors Admi<g ref="char:EOLhyphen"/>niſtrators and Aſſignes by himſelfe or themſelues or any of them or by his or their or any of their Deputies Fac<g ref="char:EOLhyphen"/>tors or Seruants ſhould or might from time to time and at all times, during the tearme aforeſaid of Twenty and one yeares, with the aſſiſtance of a Conſtable or ſome other Officer to enter and goe into all and ſingular place and places where any probabilitie or likelihood might be for the finding out of the ſaid offences and their to ſearch for all ſuch Lynnen-cloath as ſhould be by any perſon or perſons Printed bought or ſould contrarie to the true en<g ref="char:EOLhyphen"/>tent and meaning of the ſaid Letters Pattents. And that vpon the finding out of, and diſcouerie of all ſuch offences it ſhould and might be lawfull to and for the ſaid <hi>George Wood</hi> his Executors Adminiſtrators and Aſſignes and Deputies aſwell to ſeize take and cary away to the vſe of his Maieſtie his Heires and Succeſſors all ſuch Lynnen cloath as ſhall be ſo Printed vttered or ſould contrarie to the true meaning of the ſaid Letters Pattents as alſo to ſeize and take all manner of Inſtrument tooles and implements vſed and to be vſed for the purpoſes aforeſaid and the ſame to deface breake and make vnuſefull or otherwiſe to diſpoſe of as he or they ſhould thinke meete.</p>
+            <p>Therefore it is thought fitt, to giue notice to all perſons in general of his Maieſties erpreſſe commaundement. And if any hereafter ſhall haue occaſion of vſe any Cloath printed, and that the buyer and buyers may not incurr his Maieſties diſpleaſures, nor bring vpon themſelues the paines penalties and impriſonment, that may be inflic<g ref="char:EOLhyphen"/>ted as aforeſaid.</p>
+            <p>Therefore they may repaire to <hi>Hunny Laine</hi> in <hi>Cheapſide,</hi> ouer againſt <hi>Bowe Church,</hi> where they ſhall be reaſo<g ref="char:EOLhyphen"/>nably dealt withall for the buying of ſuch things ready Printed, or for the Printing of them.</p>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
